@@ -1,0 +1,11 @@
+C:\Users\ilyfaa\source\repos\line_coup\line_coup\obj\Debug\netcoreapp3.1\line_coup.csprojAssemblyReference.cache
+C:\Users\ilyfaa\source\repos\line_coup\line_coup\obj\Debug\netcoreapp3.1\line_coup.AssemblyInfoInputs.cache
+C:\Users\ilyfaa\source\repos\line_coup\line_coup\obj\Debug\netcoreapp3.1\line_coup.AssemblyInfo.cs
+C:\Users\ilyfaa\source\repos\line_coup\line_coup\bin\Debug\netcoreapp3.1\line_coup.exe
+C:\Users\ilyfaa\source\repos\line_coup\line_coup\bin\Debug\netcoreapp3.1\line_coup.deps.json
+C:\Users\ilyfaa\source\repos\line_coup\line_coup\bin\Debug\netcoreapp3.1\line_coup.runtimeconfig.json
+C:\Users\ilyfaa\source\repos\line_coup\line_coup\bin\Debug\netcoreapp3.1\line_coup.runtimeconfig.dev.json
+C:\Users\ilyfaa\source\repos\line_coup\line_coup\bin\Debug\netcoreapp3.1\line_coup.dll
+C:\Users\ilyfaa\source\repos\line_coup\line_coup\bin\Debug\netcoreapp3.1\line_coup.pdb
+C:\Users\ilyfaa\source\repos\line_coup\line_coup\obj\Debug\netcoreapp3.1\line_coup.dll
+C:\Users\ilyfaa\source\repos\line_coup\line_coup\obj\Debug\netcoreapp3.1\line_coup.pdb
